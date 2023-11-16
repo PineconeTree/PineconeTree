@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 📓 Senior at UCO
 - 💻 Treasurer of the cybersecurity club at UCO
 - ⚙ Member of the computer science club at UCO
 - 🔖 Most of my experience is in C++, but I also know C#, C, Python, Java, Assembly, Bash, Powershell, and JavaScript
