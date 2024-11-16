@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 -
 - 📝 I'm always looking to improve my code! Let me know if there's some way that my code could be improved
 -
-- 🌱 I’m currently learning learning web development in javascript and cybersecurity concepts. I am also currently learning rust but I would not say I am proficient at it yet.
 - ⚡ My primary operating system is EndeavourOS (Arch linux) but I work with Windows 11 daily.
