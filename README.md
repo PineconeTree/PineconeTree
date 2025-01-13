@@ -1,25 +1,25 @@
-### Hi there 👋
+👋 Hi there!
 
-<!--
-**PineconeTree/PineconeTree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Computer Science Honors Graduate from the University of Central Oklahoma (UCO) with a 3.71 GPA
 
-Here are some ideas to get you started:
+💻 Former Vice President of both the Cybersecurity Club and the Computer Science Club at UCO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning learning web development in javascript and cybersecurity concepts.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 📓 Senior at UCO
-- 💻 Vice President of the cybersecurity club at UCO
-- ⚙ Vice President of the computer science club at UCO
-- 🔖 Most of my experience is in C++, but I also know C#, C, Python, Java, Assembly, Bash, Powershell, and JavaScript
-- 📅 I'm planning on getting both the Comptia Network+ and Security+ cerficiations before I graduate.
--
-- 📝 I'm always looking to improve my code! Let me know if there's some way that my code could be improved
--
-- ⚡ My primary operating system is EndeavourOS (Arch linux) but I work with Windows 11 daily.
+💡 Passionate about software development, cybersecurity, and exploring new technologies.
+
+🛠️ Proficient in a variety of programming languages, including:
+*   C++
+*   C#
+*   C
+*   Python
+*   Java
+*   Bash
+*   PowerShell
+*   JavaScript
+
+🛡️ CompTIA Network+ and Security+ in progress.
+
+🌱 Currently seeking opportunities in Software Engineering, Cybersecurity, Software Quality Assurance, and System Administration
+
+⚡ Primarily use EndeavourOS (Arch Linux).
+
+📚 Always learning and improving my skills. Feel free to suggest changes or send me a message!
