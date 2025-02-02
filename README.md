@@ -20,6 +20,6 @@
 
 🌱 Currently seeking opportunities in Software Engineering, Cybersecurity, Software Quality Assurance, and System Administration
 
-⚡ Primarily use EndeavourOS (Arch Linux).
+⚡ Primarily use Linux(Fedora). Heavy previous experience with arch-based linux.
 
 📚 Always learning and improving my skills. Feel free to suggest changes or send me a message!
