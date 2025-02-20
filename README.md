@@ -5,7 +5,7 @@
 💡 &nbsp;Passionate about software development, cybersecurity, and exploring new technologies.\
 🎓 &nbsp;Recent Computer Science Honors Graduate from the University of Central Oklahoma (UCO) with a 3.71 GPA\
 💻 &nbsp;Former Vice President of both the Cybersecurity Club and the Computer Science Club at UCO.\
-🌱 &nbsp;I'm currently learning more about full stack development, cybersecurity, and data analytics.
+🌱 &nbsp;I'm currently learning more about full stack development, cybersecurity, data analytics, and machine learning
 
 ### 🛠 &nbsp;Technologies
 
