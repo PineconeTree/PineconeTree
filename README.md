@@ -7,9 +7,6 @@
 💻 &nbsp;Former Vice President of both the Cybersecurity Club and the Computer Science Club at UCO.\
 🌱 &nbsp;I'm currently learning more about full stack development, cybersecurity, and data analytics.
 
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/pineconetree/pineconetree/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Technologies
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
