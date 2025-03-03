@@ -39,6 +39,6 @@
 
 <p align="center">
 <a href="https://www.pineconeTree.me"><img src="https://img.shields.io/badge/-pineconeTree.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="www.linkedin.com/in/pineconetree"><img src="https://img.shields.io/badge/-Jarred%20Arthurs-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pineconetree"><img src="https://img.shields.io/badge/-Jarred%20Arthurs-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:portfolio.wriggle349@passinbox.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
